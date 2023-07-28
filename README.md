@@ -3,11 +3,11 @@ The repository contains the Second Task assigned to me during my Internship at D
 
 I have succefully made used of HTML, CSS, and Javascript.
 
-HTML is used to make basic HTML structure of the calculator. Appropriate tags are used to define different sections, such as the display area, button, and other elements.
+1. HTML is used to make basic HTML structure of the calculator. Appropriate tags are used to define different sections, such as the display area, button, and other elements.
 
-I have applied CSS Styling to make the calculator visually appealing. Designing the layout, color, and typography is done to make it user-friendly and good-looking. Various CSS classes and IDs are used to target specific elements for styling.
+2. I have applied CSS Styling to make the calculator visually appealing. Designing the layout, color, and typography is done to make it user-friendly and good-looking. Various CSS classes and IDs are used to target specific elements for styling.
 
-Javascript Functionalities Used for :-
+3. Javascript Functionalities Used for :-
 
 3.1. Applying Basic Arithmetic Operations. 
 Functions for basic arithmetic operations, such as addition, substraction, multiplication, and division are implemented. These functions takes two input values, performs the corresponding operations, and displays the result on the calculator's display area.
